@@ -1,4 +1,4 @@
-![Screenshot_20260220_162128](https://github.com/user-attachments/assets/b4cabd25-15dd-483e-91a6-1b14dc5dab18)# Flutter Common Widgets Demo
+# Flutter Common Widgets Demo
 
 A practical Flutter demo project that contains reusable custom widgets and dedicated demo screens to learn how commonly used UI components are built and used.
 
